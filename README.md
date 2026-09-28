@@ -146,18 +146,6 @@ Application developed to support students and academic activities.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Simão's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simao-PB&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Simao-PB&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Interests
 
 I'm currently interested in improving my knowledge in:
